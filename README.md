@@ -31,3 +31,9 @@ A simple, responsive calculator built using HTML, CSS, and JavaScript. This app 
 
 ## 📁 File Structure
 
+calculator-app/
+├── index.html # Main HTML file
+├── style.css # Styling for the calculator
+├── script.js # JavaScript logic
+└── README.md # Project description
+
